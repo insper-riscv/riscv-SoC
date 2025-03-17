@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = ../core.git
+[submodule "peripherals"]
+	path = peripherals
+	url = ../FOSS-peripherals.git
